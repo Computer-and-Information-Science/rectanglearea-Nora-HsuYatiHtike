@@ -1,3 +1,5 @@
+// Assignment: Rectangle Rea
+// Hsu Yati Htike
 #include <iostream>
 using namespace std;
 
@@ -9,7 +11,8 @@ int main() {
 double area = length * width;
 double perimeter = 2 * (length + width);
 
-// output exactly as expected
+// output 
+cout << "Rectangle Properties: " << endl;
 cout << "Length = " << length << endl;
 cout << "Width = " << width << endl;
 cout << "Area = " << area << endl;
